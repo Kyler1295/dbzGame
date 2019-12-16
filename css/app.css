@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.healthbar{
+    transition: width .5s linear;
+}
+
+
+ul{
+    list-style-type: none;
+}
